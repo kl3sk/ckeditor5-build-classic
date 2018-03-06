@@ -50,8 +50,8 @@ ClassicEditor.build = {
 				'bold',
 				'italic',
 				'link',
-				'bulletedList',
-				'numberedList',
+				'list:bulleted',
+				'list:numbered',
 				'blockQuote',
 				'undo',
 				'redo'
